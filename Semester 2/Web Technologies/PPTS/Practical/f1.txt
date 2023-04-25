@@ -1,0 +1,25 @@
+The HTML <form> Elements
+The HTML <form> element can contain one or more of the following form elements:
+
+<input>
+<label>
+<select>
+<textarea>
+<button>
+<fieldset>
+<legend>
+<datalist>
+<output>
+<option>
+<optgroup>
+
+The <input> Element
+One of the most used form element is the <input> 
+element.
+
+The <input> element can be displayed in several
+ ways, depending on the type attribute.
+
+Example
+<label for="fname">First name:</label>
+<input type="text" id="fname" name="fname">

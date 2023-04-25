@@ -1,0 +1,31 @@
+
+
+
+
+
+
+The <textarea> Element
+The <textarea> element defines a multi-line input
+ field (a text area):
+
+Example
+<textarea name="message" rows="10" cols="30">
+The cat was playing in the garden.
+</textarea>
+The rows attribute specifies the visible number of
+ lines in a textarea.
+
+The cols attribute specifies the visible width of a 
+text area.
+<textarea name="message" style="width:200px;
+ height:600px;">
+The cat was playing in the garden.
+</textarea>
+
+
+The <button> Element
+The <button> element defines a clickable button:
+
+Example
+<button type="button" onclick="alert
+('Hello World!')">Click Me!</button>
